@@ -5,6 +5,6 @@ Here is some screenshots of my program.
 
 ![image](https://raw.githubusercontent.com/JianYan-g/A-Stock-Price-Crawler/master/images/Numerically.png)
 
-![image](https://raw.githubusercontent.com/JianYan-g/A-Stock-Price-Crawler/master/images/Graphlly1.png)
+![image](https://raw.githubusercontent.com/JianYan-g/A-Stock-Price-Crawler/master/images/Graphly1.png)
 
-![image](https://raw.githubusercontent.com/JianYan-g/A-Stock-Price-Crawler/master/images//Graphlly2.png)
+![image](https://raw.githubusercontent.com/JianYan-g/A-Stock-Price-Crawler/master/images//Graphly2.png)
