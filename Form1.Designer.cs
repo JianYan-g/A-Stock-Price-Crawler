@@ -1,6 +1,6 @@
 ﻿namespace GetData
 {
-    partial class CC１
+    partial class CC1
     {
         /// <summary>
         /// Required designer variable.
