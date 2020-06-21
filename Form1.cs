@@ -11,11 +11,11 @@ using HtmlAgilityPack;
 
 namespace GetData
 {
-    public partial class 事前課題１ : Form
+    public partial class CC1: Form
     {
         DataTable table=new DataTable();
         List<DataRow> DataList=new List<DataRow>();
-        public 事前課題１()
+        public CC1()
         {
             InitializeComponent();
         }
