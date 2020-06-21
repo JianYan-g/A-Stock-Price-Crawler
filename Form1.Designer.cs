@@ -1,6 +1,6 @@
 ﻿namespace GetData
 {
-    partial class 事前課題１
+    partial class CC１
     {
         /// <summary>
         /// Required designer variable.
