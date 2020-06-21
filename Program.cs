@@ -16,7 +16,7 @@ namespace GetData
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new 事前課題１());
+            Application.Run(new CC1());
         }
     }
 }
